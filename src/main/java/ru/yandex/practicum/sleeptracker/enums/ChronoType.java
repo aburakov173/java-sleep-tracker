@@ -7,7 +7,7 @@ public enum ChronoType {
 
     private final String russianName;
 
-    ChronoType(String russianName) {
+    private ChronoType(String russianName) {
         this.russianName = russianName;
     }
 
